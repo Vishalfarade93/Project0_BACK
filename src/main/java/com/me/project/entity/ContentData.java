@@ -18,6 +18,7 @@ public class ContentData {
 		private String title;
 		private String fileName;
 		private String filePath;
+		private String piFileName;
 		private boolean isDisplayed = false;
 
 		

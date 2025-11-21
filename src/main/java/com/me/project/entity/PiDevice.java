@@ -15,7 +15,6 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @Builder
 public class PiDevice {
-
 	  @Id
 	    private String deviceId;
 	    private String deviceName;
